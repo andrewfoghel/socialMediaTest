@@ -1,0 +1,6 @@
+framework module Pods_socialMediaTest {
+  umbrella header "Pods-socialMediaTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
